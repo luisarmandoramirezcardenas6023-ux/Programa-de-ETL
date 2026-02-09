@@ -28,7 +28,7 @@ Al ejecutar el script principal, se desplegará un menú interactivo con las sig
 3.  **Migración:** Solicita las credenciales de MySQL para crear la base de datos `Extraccion_de_datos_Movies` y cargar las tablas.
 4.  **Dashboard:** Inicia un servidor local para visualizar las gráficas.
 
-##  Autores
+##  Desarrolladores
 * **De La Cruz Ramirez Jeremy Yael** -
 * **Ramirez Cardenas Luis Armando** -
 
